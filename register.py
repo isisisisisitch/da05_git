@@ -5,3 +5,4 @@ num3 = 30
 
 num2 = 20 #upgrade
 
+val = 10 
